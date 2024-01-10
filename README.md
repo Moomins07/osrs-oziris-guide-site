@@ -49,9 +49,9 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 ### Contact
-David Smith - @Dave_Probably
+David Smith - @dave_probably
 
-Project Link: https://github.com/yourusername/osrs-ironman-guide
+Project Link: https://github.com/Moomins07/osrs-oziris-guide-site
 
 ### Acknowledgements
 Old School RuneScape
