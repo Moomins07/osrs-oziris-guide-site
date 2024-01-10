@@ -26,7 +26,7 @@ To get started with contributing to this project or setting up a local version, 
 
 2. Navigate to the project directory:
    ```bash
-   cd osrs-ironman-guide
+   cd osrs-oziris-guide-site
 
 3. Install dependencies (if any):
    ```bash
