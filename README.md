@@ -36,7 +36,6 @@ To get started with contributing to this project or setting up a local version, 
    ```bash
    npm start
 
-
 ### Contributing
 Contributions are what make the open-source community an incredible place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
