@@ -25,13 +25,16 @@ To get started with contributing to this project or setting up a local version, 
    git clone https://github.com/yourusername/osrs-oziris-guide-site.git
 
 2. Navigate to the project directory:
+   ```bash
    cd osrs-ironman-guide
 
 3. Install dependencies (if any):
-npm install
+   ```bash
+   npm install
 
 4. Run the project locally:
-npm start
+   ```bash
+   npm start
 
 
 ### Contributing
