@@ -69,7 +69,7 @@ Project Link: https://github.com/Moomins07/osrs-oziris-guide-site
 ### Acknowledgements
 
 Old School RuneScape
-@OzirisLoL for his awesome guide.
+@OzirisLoL for his awesome guide.  
 Curtis for his commitment and dedication.
 
 Thank you for visiting our project!
