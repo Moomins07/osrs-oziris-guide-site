@@ -70,6 +70,6 @@ Project Link: https://github.com/Moomins07/osrs-oziris-guide-site
 
 Old School RuneScape
 @OzirisLoL for his awesome guide.
-Curtis
+Curtis for his commitment and dedication.
 
 Thank you for visiting our project!
