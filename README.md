@@ -1,5 +1,3 @@
-# Old School RuneScape Oziris' Ironman Guide
-
 ![Knight in Fantasy Landscape](screen.png "Knight facing the horizon")
 
 Welcome to the repository for the modernized Old School RuneScape Oziris' Ironman Guide. This project is dedicated to providing a re-worked website to home the comprehensive, step-by-step guide for Ironman players in the beloved game of Old School RuneScape, by Oziris. Our goal is to offer an easy-to-navigate, informative, and visually appealing website that enhances your gaming experience.
